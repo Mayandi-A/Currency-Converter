@@ -1,0 +1,22 @@
+select {
+  background: #0D5EA6;
+  padding: 10px;
+  transition: 0.4s;
+  border-radius: 5px;
+  font-family: "Times New Roman", Times, serif;
+}
+select:hover{
+    border: 2px solid black;
+}
+input:hover{
+    border: 2px solid black;
+}
+input{
+    background: #0D5EA6;
+  padding: 10px;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+.xx{
+    font-family: "Times New Roman", Times, serif;
+}
